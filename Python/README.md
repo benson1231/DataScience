@@ -1,2 +1,2 @@
 # Machine learning
-scikit-learn: https://scikit-learn.org/stable/  
+[scikit-learn](https://scikit-learn.org/stable/)
