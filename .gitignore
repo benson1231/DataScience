@@ -1,1 +1,2 @@
-.ipynb*
+# 忽略所有 .ipynb_checkpoints 資料夾
+.ipynb_checkpoints/
