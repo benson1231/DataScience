@@ -4,7 +4,6 @@
 #### [Pandas](https://pandas.pydata.org/): Data manipulation and analysis library, ideal for handling structured data.
 #### [Matplotlib](https://matplotlib.org/): Visualization library for creating static, animated, and interactive plots.
 #### [Seaborn](https://seaborn.pydata.org/): Statistical data visualization library built on Matplotlib.
-#### [scikit-learn](https://scikit-learn.org/): Machine learning library with tools for classification, regression, and clustering.
 #### [SciPy](https://scipy.org/): Library for scientific computing, building on NumPy with modules for optimization, integration, and statistics.
 #### [Requests](https://docs.python-requests.org/): HTTP library for sending requests to web APIs.
 #### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): Library for parsing HTML and XML documents.
