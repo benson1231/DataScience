@@ -1,4 +1,4 @@
-### Python Common Libraries
+# Python Common Libraries
 
 #### [NumPy](https://numpy.org/): Essential library for numerical computing in Python, providing support for arrays and mathematical operations.
 #### [Pandas](https://pandas.pydata.org/): Data manipulation and analysis library, ideal for handling structured data.
@@ -13,7 +13,7 @@
 
 ---
 
-### Machine Learning Libraries
+# Machine Learning Libraries
 
 #### [scikit-learn](https://scikit-learn.org/): Machine learning library with a wide range of algorithms for supervised and unsupervised learning.
 #### [XGBoost](https://xgboost.readthedocs.io/): Optimized gradient boosting library for scalable and efficient learning.
@@ -23,7 +23,7 @@
 
 ---
 
-### Deep Learning Libraries
+# Deep Learning Libraries
 
 #### [TensorFlow](https://www.tensorflow.org/): Open-source deep learning framework for scalable machine learning.
 #### [Keras](https://keras.io/): High-level API for building and training deep learning models, running on top of TensorFlow.
