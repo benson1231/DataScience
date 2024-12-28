@@ -1,2 +1,3 @@
-# [Python library](python/README.md)
+# Python
+### [Python library](python/README.md)
 
