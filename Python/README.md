@@ -1,36 +1,32 @@
-# Python
-### Data processing
-[numpy](https://numpy.org/doc/stable/user/index.html)
-[pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
-[scipy](https://docs.scipy.org/doc/scipy/tutorial/index.html)
-### Visualization
-[matplotlib](https://matplotlib.org/stable/users/index.html)
-[seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
-[plotly](https://plotly.com/python/)
-### Machine Learning
-[scikit-learn](https://scikit-learn.org/stable/)
-[tensorflow](https://www.tensorflow.org/?hl=zh-tw)
-[keras](https://keras.io/)
-[pytorch](https://pytorch.org/)
-### Web Scraping
-[requests](https://requests.readthedocs.io/en/latest/)
-[beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
-[scrapy](https://docs.scrapy.org/en/latest/)
-### Mathematics and Statistics
-[sympy](https://docs.sympy.org/latest/index.html)
-[statsmodels](https://www.statsmodels.org/stable/user-guide.html)
-### Image Processing
-[opencv](https://opencv.org/)
-[Pillow](https://pypi.org/project/pillow/)
-[scikit-image](https://scikit-image.org/)
-### Natural Language Processing
-[nltk](https://www.nltk.org/)
-[spaCy](https://spacy.io/)
-[transformers](https://github.com/huggingface/transformers)
-### System Utilities
-[os](https://docs.python.org/3/library/os.html)
-[sys](https://docs.python.org/3/library/sys.html)
-[logging](https://docs.python.org/3/library/logging.html)
-[re](https://docs.python.org/3/library/re.html)
-[time](https://docs.python.org/3/library/time.html)
-[datetime](https://docs.python.org/3/library/datetime.html)
+# Python Common Libraries
+
+#### [NumPy](https://numpy.org/): Essential library for numerical computing in Python, providing support for arrays and mathematical operations.
+#### [Pandas](https://pandas.pydata.org/): Data manipulation and analysis library, ideal for handling structured data.
+#### [Matplotlib](https://matplotlib.org/): Visualization library for creating static, animated, and interactive plots.
+#### [Seaborn](https://seaborn.pydata.org/): Statistical data visualization library built on Matplotlib.
+#### [SciPy](https://scipy.org/): Library for scientific computing, building on NumPy with modules for optimization, integration, and statistics.
+#### [Requests](https://docs.python-requests.org/): HTTP library for sending requests to web APIs.
+#### [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): Library for parsing HTML and XML documents.
+#### [Flask](https://flask.palletsprojects.com/): Lightweight web framework for building web applications.
+#### [Django](https://www.djangoproject.com/): High-level Python web framework for rapid development.
+
+---
+
+# Machine Learning Libraries
+
+#### [scikit-learn](https://scikit-learn.org/): Machine learning library with a wide range of algorithms for supervised and unsupervised learning.
+#### [XGBoost](https://xgboost.readthedocs.io/): Optimized gradient boosting library for scalable and efficient learning.
+#### [LightGBM](https://lightgbm.readthedocs.io/): Gradient boosting framework focused on speed and performance.
+#### [CatBoost](https://catboost.ai/): Gradient boosting library with excellent performance for categorical data.
+#### [Statsmodels](https://www.statsmodels.org/): Library for statistical modeling and testing.
+
+---
+
+# Deep Learning Libraries
+
+#### [TensorFlow](https://www.tensorflow.org/): Open-source deep learning framework for scalable machine learning.
+#### [Keras](https://keras.io/): High-level API for building and training deep learning models, running on top of TensorFlow.
+#### [PyTorch](https://pytorch.org/): Deep learning framework offering flexibility and dynamic computation graphs.
+#### [Hugging Face Transformers](https://huggingface.co/transformers/): Library for natural language processing using pretrained models.
+#### [fastai](https://www.fast.ai/): Simplified high-level library for deep learning based on PyTorch.
+#### [MXNet](https://mxnet.apache.org/): Deep learning framework with support for distributed computing.
